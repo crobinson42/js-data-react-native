@@ -1,0 +1,31 @@
+{
+  "name": "js-data-react-native",
+  "version": "1.0.0",
+  "description": "Utilities, Adapters, & other stuff for using js-data in a react-native app",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crobinson42/js-data-react-native.git"
+  },
+  "keywords": [
+    "js-data",
+    "react-native",
+    "react-native",
+    "data",
+    "react-native",
+    "storage",
+    "react-native",
+    "sql",
+    "react-native",
+    "database"
+  ],
+  "author": "coryrobinson42@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crobinson42/js-data-react-native/issues"
+  },
+  "homepage": "https://github.com/crobinson42/js-data-react-native#readme"
+}
